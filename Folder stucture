@@ -1,0 +1,14 @@
+video-summarizer/
+├─ main.py
+├─ imports.py
+├─ GUI.py
+├─ Face_Detect_Func.py
+├─ Face_Detect_Func_Yunet.py
+├─ requirements.txt
+├─ models/
+│  ├─ haarcascade_profileface.xml
+│  ├─ haarcascade_frontalface_default.xml
+│  └─ face_detection_yunet.onnx
+└─ output/
+   ├─ faces_detected/
+   └─ motion_detected/
